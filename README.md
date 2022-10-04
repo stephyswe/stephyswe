@@ -19,7 +19,7 @@ and development contributions and ramifications of the evolutional process of li
 - https://github.com/stephyswe/airbnb-clone
 
 (!)#### Movie site with admin panel - Made from "Froned-end intensive for advanced" - https://htmllessons.ru/int/show/5
-- https://github.com/stephyswe/nestjs-movie-app-be
+- https://github.com/stephyswe/next-movie-app
 
 
 ### NestJS (backend)
