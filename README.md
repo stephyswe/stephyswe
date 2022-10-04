@@ -15,7 +15,7 @@
 #### Next 
 ###### React documentation (beta)
 ###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
-###### (22) [Airbnb replica](https://github.com/stephyswe/airbnb-clone).  Made from (Newlines Tinyhouse)[https://www.newline.co/tinyhouse] be & fe
+###### (22) [Airbnb replica](https://github.com/stephyswe/airbnb-clone).  Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) be & fe
 ###### (22) [Movie site with admin panel](https://github.com/stephyswe/next-movie-app) - Made from Russian [Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5)
 
 #### NestJS (backend)
