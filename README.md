@@ -24,6 +24,7 @@
 ###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
 ###### (22) [Movie site with admin panel](https://github.com/stephyswe/nestjs-movie-app-be) - Made from Russian [Back-end intensive for advanced](https://htmllessons.ru/int/show/4)
 ###### (22) [NestJS API](https://github.com/stephyswe/nestjs-indiegames) - [Made from Wanagos API Series](https://wanago.io/courses/api-with-nestjs/)
+###### 822) [Team seas](https://github.com/stephyswe/team-seas-nestjs) - [Made from Marius Espejo tutorial](https://www.youtube.com/watch?v=lddaR8Y-gko)
 
 #### React Native
 ###### (22) [Uber replica](https://github.com/stephyswe/rn-uber-clone). Made from [Let's build Uber 2.0 with REACT NATIVE](https://www.youtube.com/watch?v=bvn_HYpix6s) 
