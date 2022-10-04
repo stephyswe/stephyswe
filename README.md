@@ -1,6 +1,6 @@
 ## Hi there,  I'm Stephanie 👋 👩 💻 Welcome to my humble abode. 
 
-### My own projects over the years
+### Some projects over the years
 
 #### Gatsby
 ###### (22) [React Docs](https://github.com/stephyswe/gatsby-learn-reactjs) - Made from [ReactJS Offical Documentation](https://github.com/reactjs/reactjs.org) - [Viewable](https://gatsbylearnreactjsmain.gatsbyjs.io/)
