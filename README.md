@@ -21,7 +21,6 @@
 ###### (22) [Uber replica](https://github.com/stephyswe/rn-uber-clone). Made from [Let's build Uber 2.0 with REACT NATIVE](https://www.youtube.com/watch?v=bvn_HYpix6s) 
 
 #### React
-###### (22) [Portfolio](https://github.com/stephyswe/react-portfolio) - [Viewable](https://react-portfolio-cyan.vercel.app/)
 ###### (21) ! [RTK-githubrepo](https://github.com/stephyswe/rtk-gihubrepo) - Redux Toolkit with 99.3% test coverage. Made from a toptal article by Gurami Dagundaridze [Creating React Apps With Redux Toolkit and RTK Query](https://www.toptal.com/react/redux-toolkit-and-rtk-query)
 
 #### Game Developement (Unity)
