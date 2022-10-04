@@ -2,15 +2,11 @@
 
 ### Some projects over the years
 
-#### Gatsby
-###### (22) [React Docs](https://github.com/stephyswe/gatsby-learn-reactjs) - Made from [ReactJS Offical Documentation](https://github.com/reactjs/reactjs.org) - [Viewable](https://gatsbylearnreactjsmain.gatsbyjs.io/)
-
 #### Django (python)
 ###### (21) [Carzone](https://github.com/stephyswe/carzone) - Made from [Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - [Viewable](https://glacial-retreat-43749.herokuapp.com/)
 
 #### Next 
 ###### React documentation (beta)
-###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) inc. Uber Eats design - [Viewable](https://nuber-fe-next.vercel.app/)
 ###### (22) [Airbnb replica](https://github.com/stephyswe/airbnb-clone).  Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) be & fe
 ###### (22) [Movie site with admin panel](https://github.com/stephyswe/next-movie-app) - Made from Russian [Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5) - [Viewable](http://next-movie-app-mu.vercel.app/)
 ###### (22) [LinkedIn replica](https://github.com/stephyswe/next-linkedin-clone). Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - [Viewable](https://next-linkedin-clone-chi.vercel.app/)
