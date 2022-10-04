@@ -16,7 +16,7 @@
 ###### React documentation (beta)
 ###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
 ###### (22) [Airbnb replica](https://github.com/stephyswe/airbnb-clone).  Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) be & fe
-###### (22) [Movie site with admin panel](https://github.com/stephyswe/next-movie-app) - Made from Russian [Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5)
+###### (22) [Movie site with admin panel](https://github.com/stephyswe/next-movie-app) - Made from Russian [Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5) - [Viewable](http://next-movie-app-mu.vercel.app/)
 
 #### NestJS (backend)
 ###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
@@ -25,8 +25,8 @@
 
 #### React Native
 ###### (22) [Uber replica](https://github.com/stephyswe/rn-uber-clone). Made from [Let's build Uber 2.0 with REACT NATIVE](https://www.youtube.com/watch?v=bvn_HYpix6s) 
-###### (22) [LinkedIn replica](https://github.com/stephyswe/next-linkedin-clone). Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0)
-###### (22) [Spotify replica](https://github.com/stephyswe/next-spotify-clone). Made from [Javascript NextJS Tutorial: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg)
+###### (22) [LinkedIn replica](https://github.com/stephyswe/next-linkedin-clone). Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - [Viewable](https://next-linkedin-clone-chi.vercel.app/)
+###### (22) [Spotify replica](https://github.com/stephyswe/next-spotify-clone). Made from [Javascript NextJS Tutorial: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) - [Viewable](https://next-spotify-clone-mocha.vercel.app/) (req. premium account to play)
 
 #### React
 ###### (22) [Portfolio](https://github.com/stephyswe/react-portfolio) - [Viewable](https://react-portfolio-cyan.vercel.app/)
