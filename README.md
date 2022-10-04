@@ -1,5 +1,4 @@
 ## Hi there,  I'm Stephanie 👋 👩 💻 Welcome to my humble abode. 
-### I will over the following weeks take alittle time and give a description of myself and my journey.
 
 ### My own projects over the years
 
