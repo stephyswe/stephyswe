@@ -1,4 +1,4 @@
-## Hi there,  I'm Stephanie 👋 👩 💻 Welcome to my humble abode. 
+## Hi there,  I'm Stephanie 👋 👩 💻
 
 ### Some projects over the years
 
