@@ -1,5 +1,5 @@
 ## Hi there,  I'm Stephanie 👋 👩 💻 Welcome to my humble abode. 
-### I will over the following weeks take alittle time and give a description of myself, my journey and development contributions and ramifications of the evolutional process of libraries, frameworks and others milestones in yearly fashion.
+### I will over the following weeks take alittle time and give a description of myself and my journey.
 
 ### What is Code Contribution? 
 - One way to answer could be to show a public example. At repositories as <https://github.com/reactjs/reactjs.org> and <https://github.com/toptal/picasso> many developers work to create a unified solution. A solution that is improved by releases or issues / pull request scenario. Improvement can happen by the use of pull requests. In a recent pull request at reactjs (https://github.com/reactjs/reactjs.org/pull/5146) a user ask to merge part of their code handling RTL (language responsive layout) based on the issue #1817 on the topic "To restyle the logo". Noticing the issue isn't complete. They open previously mentioned pull request and commit their fix. The fix is picked up by a facebook bot asking to sign a CLA "Contributor Licence Agreement". Once signed a senior developer at reactjs makes a code review and in this case the fix make the navbar unstable so it isn't accepted at the time.
