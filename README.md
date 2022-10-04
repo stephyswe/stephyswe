@@ -23,8 +23,10 @@ and development contributions and ramifications of the evolutional process of li
 
 
 ### NestJS (backend)
-#### Movie site with admin panel - Made from "Back-end intensive for advanced" - https://htmllessons.ru/int/show/4
+#### (22) Movie site with admin panel - Made from "Back-end intensive for advanced" - https://htmllessons.ru/int/show/4
 - https://github.com/stephyswe/nestjs-movie-app-be
+#### (22) NestJS API. Made from Wanagos API Series - https://wanago.io/courses/api-with-nestjs/
+- https://github.com/stephyswe/nestjs-indiegames
 
 
 ### React Native
