@@ -31,7 +31,7 @@
 #### React
 ###### (22) [Portfolio](https://github.com/stephyswe/react-portfolio) - [Viewable](https://react-portfolio-cyan.vercel.app/)
 ###### (21) ! [RTK-githubrepo](https://github.com/stephyswe/rtk-gihubrepo) - Redux Toolkit with 99.3% test coverage. Made from a toptal article by Gurami Dagundaridze [Creating React Apps With Redux Toolkit and RTK Query](https://www.toptal.com/react/redux-toolkit-and-rtk-query)
-###### (22) [Team seas replica](https://github.com/stephyswe/team-seas-fe) - Team Seas Website converted into React. -  [Viewable](http://team-seas-fe.vercel.app/)
+###### (22) [Team seas replica](https://github.com/stephyswe/team-seas-fe) - Team Seas Website converted into React. -  [Viewable](http://team-seas-fe.vercel.app/) - better version coming soon.
 
 #### Game Developement (Unity)
 ###### (17) [Pacman clone](https://github.com/stephyswe/pacman). [Made from Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
