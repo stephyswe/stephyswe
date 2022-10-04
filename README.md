@@ -20,7 +20,6 @@
 ###### (22) [Uber Eats replica](https://github.com/stephyswe/nuber-fe-next) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
 ###### (22) [Movie site with admin panel](https://github.com/stephyswe/nestjs-movie-app-be) - Made from Russian [Back-end intensive for advanced](https://htmllessons.ru/int/show/4)
 ###### (22) [NestJS API](https://github.com/stephyswe/nestjs-indiegames) - [Made from Wanagos API Series](https://wanago.io/courses/api-with-nestjs/)
-###### 822) [Team Seas replica](https://github.com/stephyswe/team-seas-nestjs) - Made from [Marius Espejo tutorial](https://www.youtube.com/watch?v=lddaR8Y-gko)
 
 #### React Native
 ###### (22) [Uber replica](https://github.com/stephyswe/rn-uber-clone). Made from [Let's build Uber 2.0 with REACT NATIVE](https://www.youtube.com/watch?v=bvn_HYpix6s) 
@@ -28,7 +27,6 @@
 #### React
 ###### (22) [Portfolio](https://github.com/stephyswe/react-portfolio) - [Viewable](https://react-portfolio-cyan.vercel.app/)
 ###### (21) ! [RTK-githubrepo](https://github.com/stephyswe/rtk-gihubrepo) - Redux Toolkit with 99.3% test coverage. Made from a toptal article by Gurami Dagundaridze [Creating React Apps With Redux Toolkit and RTK Query](https://www.toptal.com/react/redux-toolkit-and-rtk-query)
-###### (22) [Team seas replica](https://github.com/stephyswe/team-seas-fe) - Team Seas Website converted into React. -  [Viewable](http://team-seas-fe.vercel.app/) - better version coming soon.
 
 #### Game Developement (Unity)
 ###### (17) [Pacman clone](https://github.com/stephyswe/pacman). Made from [Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
