@@ -35,7 +35,7 @@
 ###### (22) [Team seas replica](https://github.com/stephyswe/team-seas-fe) - Team Seas Website converted into React. -  [Viewable](http://team-seas-fe.vercel.app/) - better version coming soon.
 
 #### Game Developement (Unity)
-###### (17) [Pacman clone](https://github.com/stephyswe/pacman). [Made from Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
+###### (17) [Pacman clone](https://github.com/stephyswe/pacman). Made from [Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
 
 #### Android (deprecated)
 Four android apps developed to handle chat interactions & friend list. All based on youtube examples.
