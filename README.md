@@ -18,7 +18,7 @@ and development contributions and ramifications of the evolutional process of li
 #### (22) Airbnb replica.  Made from Newlines Tinyhouse - https://www.newline.co/tinyhouse (be & fe) 
 - https://github.com/stephyswe/airbnb-clone
 
-(!)#### Movie site with admin panel - Made from "Froned-end intensive for advanced" - https://htmllessons.ru/int/show/5
+(!)#### Movie site with admin panel - Made from "Frontend-end intensive for advanced" - https://htmllessons.ru/int/show/5
 - https://github.com/stephyswe/next-movie-app
 
 
