@@ -1,6 +1,6 @@
 ## Hi there,  I'm Stephanie 👋 👩 💻
 
-### Some projects over the years
+### Some projects over the year
 
 #### Django (python)
 ###### (21) [Carzone](https://github.com/stephyswe/carzone) - Made from [Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - [Viewable](https://glacial-retreat-43749.herokuapp.com/)
