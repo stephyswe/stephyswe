@@ -16,20 +16,6 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)](https://github.com/dwhenson/github-readme-stats)
   </td>
   </table>
-  
-## 🏋 Am I Working Hard Enough?
-<table width="100%" border="0"> 
-  <tr>
-  <td width="50%">
-      
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@stephyswe/2de555d3-b724-43a0-a359-9e1ca1f9376d.png" /></a>
-
-  </td>
-  <td width="50%">
-
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@stephyswe/a195e926-3e77-4f83-8554-0d5ac7adf927.png" /></a>
-  </td>
-  </table>
 
 ## Contact 📫 
 
