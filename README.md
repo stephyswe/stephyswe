@@ -27,10 +27,11 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd lo
 ##### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) -[BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from [Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5) / [Back-end intensive for advanced](https://htmllessons.ru/int/show/4)
 ##### (21) [Carzone](https://carzone-django.herokuapp.com) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers)
 ##### (22) [Airbnb clone](https://tinyhouse-react-stripe.herokuapp.com/) - Github [Fullstack-React/Node](https://github.com/stephyswe/airbnb-clone) - Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse)
+##### (22) [LinkedIn clone](https://next-linkedin-clone-chi.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-linkedin-clone) Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0)
 
 #### Next 
 ###### React documentation (beta)
-###### (22) [LinkedIn replica](https://github.com/stephyswe/next-linkedin-clone). Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - [Viewable](https://next-linkedin-clone-chi.vercel.app/)
+
 ###### (22) [Spotify replica](https://github.com/stephyswe/next-spotify-clone). Made from [Javascript NextJS Tutorial: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) - [Viewable](https://next-spotify-clone-mocha.vercel.app/) (req. premium account to play)
 
 #### NestJS (backend)
