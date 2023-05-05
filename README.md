@@ -3,6 +3,10 @@
 
 A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. As a mid-career changer, I seek an opportunity to apply the skills I've learnt independently in a real-world, professional setting. I am looking for a position where I can learn from others, further establish my solid technical foundations, and develop the habits that will help me grow as a competent developer.
 
+## Contact 📫 
+
+Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
+
 ## Github Stats 💫
 <table width="100%" border="0"> 
   <tr>
@@ -16,10 +20,6 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)](https://github.com/dwhenson/github-readme-stats)
   </td>
   </table>
-
-## Contact 📫 
-
-Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
 
 ### Some projects over the year
 
