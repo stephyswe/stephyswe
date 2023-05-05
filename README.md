@@ -29,7 +29,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd lo
 ### Some projects over the year
 
 #### Django (python)
-###### (21) [Carzone](https://github.com/stephyswe/carzone) - Made from [Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - [Viewable](https://glacial-retreat-43749.herokuapp.com/)
+###### (21) [Carzone](https://github.com/stephyswe/carzone) - Made from [Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - [Viewable](https://carzone-django.herokuapp.com/)
 
 #### Next 
 ###### React documentation (beta)
