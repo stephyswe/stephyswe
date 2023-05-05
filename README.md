@@ -30,7 +30,6 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd lo
 
 #### Next 
 ###### React documentation (beta)
-###### (22) [Airbnb replica](https://github.com/stephyswe/airbnb-clone).  Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) be & fe - [Viewable](https://tinyhouse-react-stripe.herokuapp.com/)
 ###### (22) [LinkedIn replica](https://github.com/stephyswe/next-linkedin-clone). Made from [Javascript NextJS Tutorial: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - [Viewable](https://next-linkedin-clone-chi.vercel.app/)
 ###### (22) [Spotify replica](https://github.com/stephyswe/next-spotify-clone). Made from [Javascript NextJS Tutorial: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) - [Viewable](https://next-spotify-clone-mocha.vercel.app/) (req. premium account to play)
 
@@ -47,7 +46,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd lo
 #### Game Developement (Unity)
 ###### (17) [Pacman clone](https://github.com/stephyswe/pacman). Made from [Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
 
-#### Android (deprecated)
+#### Android
 Four android apps developed to handle chat interactions & friend list. All based on youtube examples.
 
 ## Contribution Graph 📊
