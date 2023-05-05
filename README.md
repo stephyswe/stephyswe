@@ -21,11 +21,6 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
 
 Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
 
-## 🎧 Most recent listens
-
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
-
 ### Some projects over the year
 
 #### Django (python)
@@ -60,3 +55,6 @@ Four android apps developed to handle chat interactions & friend list. All based
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stephyswe&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephyswe&theme=tokyonight" />
 </p>
+
+## 🎧 Most recent listens
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
