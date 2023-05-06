@@ -48,6 +48,6 @@ Four android apps developed to handle chat interactions & friend list. All based
   </td>
   <td width="20%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact&darkmode)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)
   </td>
   </table>
