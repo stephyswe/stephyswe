@@ -1,7 +1,7 @@
 ## Hey,  I'm Stephanie 👋
-***I love building fast, easy-to-use and accessible websites.***
+***I'm all about crafting speedy, intuitive, and inclusive websites that people will love to use.***
 
-A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. As a mid-career changer, I seek an opportunity to apply the skills I've learnt independently in a real-world, professional setting. I am looking for a position where I can learn from others, further establish my solid technical foundations, and develop the habits that will help me grow as a competent developer.
+I'm a C++ and embedded development student who's also into TypeScript, NestJS, and cutting-edge tech. I love building lightning-fast, user-friendly websites and am eager to dive into real-world projects to hone my skills. Let's innovate and make things happen!
 
 ## Contact 📫 
 
