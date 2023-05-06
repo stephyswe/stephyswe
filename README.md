@@ -38,16 +38,16 @@ Four android apps developed to handle chat interactions & friend list. All based
   <tr>
     <td width="30%">
       
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stephyswe&show_icons=true&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stephyswe&show_icons=true&theme=dracula" />
 
   </td>
   <td width="30%">
       
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephyswe&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephyswe&theme=dracula" />
 
   </td>
   <td width="20%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact&theme=dracula)
   </td>
   </table>
