@@ -7,20 +7,6 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
 
 Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
 
-## Github Stats 💫
-<table width="100%" border="0"> 
-  <tr>
-  <td width="50%">
-      
-  ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephyswe&hide=issues&show_icons=true)
-
-  </td>
-  <td width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)](https://github.com/dwhenson/github-readme-stats)
-  </td>
-  </table>
-
 ### Some projects over the year
 
 #### Apps
@@ -48,10 +34,23 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd lo
 Four android apps developed to handle chat interactions & friend list. All based on youtube examples.
 
 ## Contribution Graph 📊
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stephyswe&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephyswe&theme=tokyonight" />
-</p>
+<table width="100%" border="0"> 
+  <tr>
+    <td width="30%">
+      
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stephyswe&show_icons=true&theme=tokyonight" />
+
+  </td>
+  <td width="30%">
+      
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stephyswe&theme=tokyonight" />
+
+  </td>
+  <td width="20%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)](https://github.com/dwhenson/github-readme-stats)
+  </td>
+  </table>
 
 ## 🎧 Most recent listens
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
