@@ -5,7 +5,7 @@ I'm a C++ and embedded development student who's also into TypeScript, NestJS, a
 
 ## Contact 📫 
 
-Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
+Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm always happy to hear from you via email! While I appreciate the value of social media, I prefer to keep things simple and direct. So drop me a line, and let's connect!
 
 ### Some projects over the year
 
