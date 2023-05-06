@@ -51,6 +51,3 @@ Four android apps developed to handle chat interactions & friend list. All based
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephyswe&layout=compact)](https://github.com/dwhenson/github-readme-stats)
   </td>
   </table>
-
-## 🎧 Most recent listens
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
