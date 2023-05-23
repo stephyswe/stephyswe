@@ -9,6 +9,12 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 ### Some projects over the year
 
+#### Antonio Sites
+##### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval
+##### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg)
+##### (23) [Messenger clone](https://next-messenger-v1.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-messenger-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=PGPGcKBpAk8)
+##### (23) [Netflix clone](https://next-netflix-v1-gules.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-netflix-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=mqUN4N2q4qY)
+
 #### Apps
 ##### (22) [UberEats clone](https://nuber-fe-next.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
 ##### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from [RU: Frontend-end intensive for advanced](https://htmllessons.ru/int/show/5) / [RU: Back-end intensive for advanced](https://htmllessons.ru/int/show/4)
