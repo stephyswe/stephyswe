@@ -35,6 +35,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### Game Developement (Unity)
 ###### (17) [Pacman clone](https://github.com/stephyswe/pacman). Made from [Weekly Coder - How to make a game like Pac-Man in Unity...](https://www.youtube.com/watch?v=tjxKxZsofdk&list=PLiRrp7UEG13a4DmYuNWHSoqLqNukEm9ua)
+###### (23) [Final Fantasy clone](https://github.com/stephyswe/unity-ff1). Made from [Phantasia by CharlesAverill](https://github.com/CharlesAverill/Phantasia)
 
 #### Android
 Four android apps developed to handle chat interactions & friend list. All based on youtube examples.
