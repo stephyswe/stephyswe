@@ -19,7 +19,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### C, Py & Embedded 
 ###### (23) [Exam-03 - CI Testing Shapes, Calculator & Paper, Rock, Scissors Game](https://github.com/stephyswe/exam-03-c-ci-inlamning) - Grade VG
-###### (23) [Exam-02 - Door access](https://github.com/stephyswe/exam-02-door) - Grade VG
+###### (23) [Exam-02 - Door access](https://github.com/stephyswe/exam-02-door/tree/vg-file) - Grade VG
 ###### (23) [Exam-01 - Guess number](https://github.com/stephyswe/exam-01-guess-1-to-100-facts/tree/vg-lowscore) - Grade VG
 ###### (23) [Learn Python](https://github.com/stephyswe/py-ovning)
 ###### (23) [Fork - Super Mario Bros in C](https://github.com/stephyswe/Super-Mario-Bros)
