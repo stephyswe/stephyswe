@@ -20,7 +20,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 
 #### Apps
-###### (23) [Yumroad Flask](...) - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from  [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](...) 
+###### (23) [Yumroad Flask](...) - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from  [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
 ###### (22) [UberEats clone](https://nuber-fe-next.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
 ###### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from RU: [Frontend](https://htmllessons.ru/int/show/5) / [Backend](https://htmllessons.ru/int/show/4)
 ###### (21) [Carzone](https://carzone-django.herokuapp.com) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers)
