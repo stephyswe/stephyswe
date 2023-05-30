@@ -28,7 +28,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 ###### (22) [Airbnb clone](https://tinyhouse-react-stripe.herokuapp.com/) - Github [Fullstack-React/Node](https://github.com/stephyswe/airbnb-clone) - Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) - ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ###### (22) [LinkedIn clone](https://next-linkedin-clone-chi.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-linkedin-clone) - Made from [Youtube: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-linkedin-clone)
 ###### (22) [Spotify clone](https://next-spotify-clone-mocha.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-spotify-clone) - Made from [Youtube: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) (req. premium account to play) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-spotify-clone)
-
+###### (22) [Landing Page VR](https://starter-vr-react.vercel.app/) - Github [FE-React](https://github.com/stephyswe/starter-vr-react) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/starter-vr-react)
 
 #### NestJS (backend)
 
