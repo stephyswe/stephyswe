@@ -9,26 +9,26 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 ### Some projects over the year
 
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app={therealsujitk})
+
 
 #### Antonio Sites
-###### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval
-###### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg)
-###### (23) [Messenger clone](https://next-messenger-v1.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-messenger-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=PGPGcKBpAk8)
-###### (23) [Netflix clone](https://next-netflix-v1-gules.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-netflix-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=mqUN4N2q4qY)
+###### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/faq_codewithantonio)
+###### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-airbnb-v2-shell)
+###### (23) [Messenger clone](https://next-messenger-v1.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-messenger-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=PGPGcKBpAk8) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-messenger-v1)
+###### (23) [Netflix clone](https://next-netflix-v1-gules.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-netflix-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=mqUN4N2q4qY) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-netflix-v1)
 
 #### Embedded Bunch
 ...
 
-
 #### Apps
-###### (23) [Yumroad Flask](...) - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from  [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
-###### (22) [UberEats clone](https://nuber-fe-next.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats)
-###### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from RU: [Frontend](https://htmllessons.ru/int/show/5) / [Backend](https://htmllessons.ru/int/show/4)
-###### (21) [Carzone](https://carzone-django.herokuapp.com) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers)
-###### (22) [Airbnb clone](https://tinyhouse-react-stripe.herokuapp.com/) - Github [Fullstack-React/Node](https://github.com/stephyswe/airbnb-clone) - Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse)
-###### (22) [LinkedIn clone](https://next-linkedin-clone-chi.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-linkedin-clone) - Made from [Youtube: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0)
-###### (22) [Spotify clone](https://next-spotify-clone-mocha.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-spotify-clone) - Made from [Youtube: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) (req. premium account to play)
+###### (23) Yumroad Flask - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from  [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
+###### (22) [UberEats clone](https://nuber-fe-next.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe)
+###### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from RU: [Frontend](https://htmllessons.ru/int/show/5) / [Backend](https://htmllessons.ru/int/show/4) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-movie-app)
+###### (21) [Carzone](https://carzone-django.herokuapp.com) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+###### (22) [Airbnb clone](https://tinyhouse-react-stripe.herokuapp.com/) - Github [Fullstack-React/Node](https://github.com/stephyswe/airbnb-clone) - Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) - ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+###### (22) [LinkedIn clone](https://next-linkedin-clone-chi.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-linkedin-clone) - Made from [Youtube: Build a LinkedIn](https://www.youtube.com/watch?v=JGhuAJKGRN0) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-linkedin-clone)
+###### (22) [Spotify clone](https://next-spotify-clone-mocha.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-spotify-clone) - Made from [Youtube: Redesign Spotify](https://www.youtube.com/watch?v=5qwpAn8bqCg) (req. premium account to play) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-spotify-clone)
+
 
 #### NestJS (backend)
 
