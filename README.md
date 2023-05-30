@@ -18,9 +18,9 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 ###### (23) [Netflix clone](https://next-netflix-v1-gules.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-netflix-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=mqUN4N2q4qY) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-netflix-v1)
 
 #### C, Py & Embedded 
-###### (23) [Exam-03 - CI Testing Shapes, Calculator & Paper, Rock, Scissors Game](https://github.com/stephyswe/exam-01-guess-1-to-100-facts)
-###### (23) [Exam-02 - Door access](https://github.com/stephyswe/exam-02-door)
-###### (23) [Exam-01 - Guess number](https://github.com/stephyswe/exam-01-guess-1-to-100-facts)
+###### (23) [Exam-03 - CI Testing Shapes, Calculator & Paper, Rock, Scissors Game](https://github.com/stephyswe/exam-01-guess-1-to-100-facts) - Grade VG
+###### (23) [Exam-02 - Door access](https://github.com/stephyswe/exam-02-door) - Grade VG
+###### (23) [Exam-01 - Guess number](https://github.com/stephyswe/exam-01-guess-1-to-100-facts/tree/vg-lowscore) - Grade VG
 ###### (23) [Learn Python](https://github.com/stephyswe/py-ovning)
 ###### (23) [Fork - Super Mario Bros in C](https://github.com/stephyswe/Super-Mario-Bros)
 ###### (23) [Learn C - Starter](https://github.com/stephyswe/cprogrammet-grund)
