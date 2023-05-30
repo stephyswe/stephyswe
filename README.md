@@ -9,6 +9,8 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 ### Some projects over the year
 
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app={therealsujitk})
+
 #### Antonio Sites
 ###### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval
 ###### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg)
