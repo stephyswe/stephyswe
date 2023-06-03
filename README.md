@@ -26,8 +26,11 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 ###### (23) [Fork - Super Mario Bros in C](https://github.com/stephyswe/Super-Mario-Bros)
 ###### (23) [Starter C - First Program](https://github.com/stephyswe/cprogrammet-grund)
 
-#### Apps
-###### (23) Yumroad Flask - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from  [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
+https://team-seas-fe.vercel.app/
+
+#### Apps https://github.com/stephyswe/team-seas-nestjs
+###### (23) [Team Sea clone](https://team-seas-fe.vercel.app/) - Github [FE-React/GQL](https://github.com/stephyswe/team-seas-fe) - [BE-Nest](https://github.com/stephyswe/team-seas-nestjs) - Made from [Marius Espejo YT video](https://www.youtube.com/watch?v=lddaR8Y-gko)
+###### (23) Yumroad Flask - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
 ###### (22) [UberEats clone](https://next-ubereats-fe.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe)
 ###### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from RU: [Frontend](https://htmllessons.ru/int/show/5) / [Backend](https://htmllessons.ru/int/show/4) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-movie-app)
 ###### (21) [Carzone](https://carzone-django.herokuapp.com) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
