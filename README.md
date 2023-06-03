@@ -2,7 +2,7 @@
 ***I'm all about crafting speedy, intuitive, and inclusive websites that people will love to use.***
 
 Have many years work experience as frontend and backend developer. I'm a C and embedded development student who's also into TypeScript, NestJS, and cutting-edge tech. I love building lightning-fast, user-friendly websites and am eager to dive into real-world projects to hone my skills. Let's innovate and make things happen!
-Learning Unbuntu, added self-hosting from a unbuntu droplet meanining less monthly cost with hosting services. 
+Learning Ubuntu, added self-hosting from a unbuntu droplet meanining less monthly cost with hosting services. 
 
 ## Contact 📫 
 
