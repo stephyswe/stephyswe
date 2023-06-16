@@ -1,7 +1,7 @@
 ## Hey,  I'm Stephanie 👋
 ***I'm all about crafting speedy, intuitive, and inclusive websites that people will love to use.***
 
-Frontend and backend developer with years of work experience. Using Ubuntu, embracing self-hosting with an Ubuntu droplet for cost-effective hosting. Currently I'm a C and embedded development student who's also into TypeScript, NestJS, and cutting-edge tech. I love building lightning-fast, user-friendly websites and am eager to dive into real-world projects to hone my skills.  Let's innovate and make things happen!
+Frontend and backend developer with years of work experience. Using Ubuntu, embracing self-hosting with an Ubuntu droplet for cost-effective hosting. Currently I'm also into TypeScript, NestJS, and cutting-edge tech. I love building lightning-fast, user-friendly websites and am eager to dive into real-world projects to hone my skills.  Let's innovate and make things happen!
 
 
 ## Contact 📫 
