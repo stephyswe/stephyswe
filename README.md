@@ -32,7 +32,6 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 ###### (23) [Learn Python](https://github.com/stephyswe/py-ovning)
 ###### (23) [Learn C](https://github.com/stephyswe/c-grunder)
 ###### (23) [Fork - Super Mario Bros in C](https://github.com/stephyswe/Super-Mario-Bros)
-###### (23) [Starter C - First Program](https://github.com/stephyswe/cprogrammet-grund)
 
 #### Apps
 ###### (23) Yumroad Flask - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
