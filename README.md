@@ -10,9 +10,8 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 ### Some projects over the year
 
-
-
-#### Antonio Sites
+#### Sites
+###### (22) [UberEats clone](https://next-ubereats-fe.vercel.app/client/dining/pickup) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe) - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ###### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/faq_codewithantonio)
 ###### (23) [Spotify clone](https://next-spotify-v1.vercel.app/) -  Github [FE-Next](https://github.com/stephyswe/spotify-v2) - Made from [Youtube video](https://www.youtube.com/watch?v=2aeMRB8LL4o) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/spotify-v2)
 ###### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-airbnb-v2-shell)
@@ -31,7 +30,6 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 #### Apps
 ###### (23) [Team Sea clone](https://team-seas-fe.vercel.app/) - Github [FE-React/GQL](https://github.com/stephyswe/team-seas-fe) - [BE-Nest](https://github.com/stephyswe/team-seas-nestjs) - Made from [Marius Espejo YT video](https://www.youtube.com/watch?v=lddaR8Y-gko) - ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ###### (23) Yumroad Flask - Github [Flask-Fullstack](https://github.com/stephyswe/flask-yumroad) - Made from [Newlines Fullstack Flask](https://www.newline.co/fullstack-flask) - [100% test coverage](https://stephyswe.github.io/flask-yumroad/)
-###### (22) [UberEats clone](https://next-ubereats-fe.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-ubereats-fe)- [BE-Nest](https://github.com/stephyswe/nuber-be-nestjs) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe) - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ###### (22) [Movie site with admin panel](https://next-movie-app-mu.vercel.app) - Github [FE-Next](https://github.com/stephyswe/next-movie-app) - [BE-Nest](https://github.com/stephyswe/nestjs-movie-app-be) - Made from RU: [Frontend](https://htmllessons.ru/int/show/5) / [Backend](https://htmllessons.ru/int/show/4) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-movie-app) - ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ###### (21) [Carzone](https://django-carzone.onrender.com/) - Github [Fullstack-Django](https://github.com/stephyswe/carzone) - Made from [Udemy: Build Python Django Real Project: Django Web Development](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers) - ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ###### (22) [Airbnb clone](https://airbnb-tinyhouse.onrender.com/) - Github [Fullstack-React/Node](https://github.com/stephyswe/airbnb-clone) - Made from [Newlines Tinyhouse](https://www.newline.co/tinyhouse) - ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
