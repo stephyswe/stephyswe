@@ -10,6 +10,10 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 ### Some projects over the year
 
+#### Inspirations
+
+###### Yann Braga  (Storybook's offical Maintainer) MealDrop  [Storybook](https://mealdrop.vercel.app/storybook/) [Site](https://mealdrop.vercel.app/) - stories, interactive tests, jest [Course - Newline: Storybook for React Apps](https://www.newline.co/courses/storybook-for-react-apps)
+
 #### Sites - Ecommerce
 
 ###### (23) [Hairlust](https://next-sites-hairlust.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/hairlust-ecommerce) - Copy of Original Site [Hairlust.com](https://hairlust.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe) - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
