@@ -14,7 +14,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### Antonio Sites
 ###### (23) [FAQ for videos](https://faq-codewithantonio.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/faq_codewithantonio) - Made with Antonios' approval - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/faq_codewithantonio)
-###### (23) [Spotify clone](https://next-spotify-v1.vercel.app/) -  Github [FE-Next](https://github.com/stephyswe/spotify-v2) - Made from [Youtube video](https://www.youtube.com/watch?v=2aeMRB8LL4o) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-spotify-v1)
+###### (23) [Spotify clone](https://next-spotify-v1.vercel.app/) -  Github [FE-Next](https://github.com/stephyswe/spotify-v2) - Made from [Youtube video](https://www.youtube.com/watch?v=2aeMRB8LL4o) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/spotify-v2)
 ###### (23) [Airbnb clone](https://next-airbnb-v2-shell.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-airbnb-v2-shell) - Made from [Youtube video](https://www.youtube.com/watch?v=c_-b_isI4vg) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-airbnb-v2-shell)
 ###### (23) [Messenger clone](https://next-messenger-v1.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-messenger-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=PGPGcKBpAk8) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-messenger-v1)
 ###### (23) [Netflix clone](https://next-netflix-v1-gules.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/next-netflix-v1) - Made from [Youtube video](https://www.youtube.com/watch?v=mqUN4N2q4qY) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-netflix-v1)
