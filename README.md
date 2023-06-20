@@ -16,8 +16,8 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### Sites - Ecommerce
 
-###### (23) [Hairlust](https://next-sites-hairlust.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/hairlust-ecommerce) - Copy of Original Site [Hairlust.com](https://hairlust.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/hairlust-ecommerce) 
-###### (23) [Bustle](https://site-bustle.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/site-bustle) - Copy of Original Site [Hairlust.com](https://bustle.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/site-bustle) 
+###### (23) [Hairlust](https://next-sites-hairlust.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/hairlust-ecommerce) -  [Copy of Original Site - Hairlust.com](https://hairlust.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/hairlust-ecommerce) 
+###### (23) [Bustle](https://site-bustle.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/site-bustle) - [Copy of Original Site  - Bustle.com](https://bustle.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/site-bustle) 
 
 #### Sites - Social 
 ###### (23) [UberEats clone](https://next-ubereats-fe.vercel.app/client/dining/pickup) - Github [FE-Next](https://github.com/stephyswe/ubereats-fe)- [BE-Nest](https://github.com/stephyswe/ubereats-be) - Made from Korean [Nomad Coders course](https://nomadcoders.co/nuber-eats) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/next-ubereats-fe) - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
