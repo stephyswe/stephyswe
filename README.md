@@ -12,7 +12,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### Inspirations
 
-###### Yann Braga  (Storybook's offical Maintainer) MealDrop  [Storybook](https://mealdrop.vercel.app/storybook/) / [Site](https://mealdrop.vercel.app/) - stories, interactive tests, jest [Course - Newline: Storybook for React Apps](https://www.newline.co/courses/storybook-for-react-apps)
+###### Yann Braga  (Storybook's offical Maintainer) [MealDrop](https://github.com/yannbf/mealdrop) - [Storybook](https://mealdrop.vercel.app/storybook/) / [Site](https://mealdrop.vercel.app/) - stories, interactive tests, jest [Course - Newline: Storybook for React Apps](https://www.newline.co/courses/storybook-for-react-apps)
 
 #### Sites - Ecommerce
 
