@@ -16,7 +16,7 @@ Email is the [best way to reach me](mailto:stephaniiehallberg@gmail.com). I'm al
 
 #### Sites - Ecommerce
 
-###### (23) [Hairlust](https://next-sites-hairlust.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/hairlust-ecommerce) -  [Copy of Original Site - Hairlust.com](https://hairlust.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/hairlust-ecommerce) 
+###### (23) [Hairlust](https://next-sites-hairlust.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/hairlust-ecommerce) -  [Copy of Original Site - Hairlust.se](https://hairlust.se/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/hairlust-ecommerce) 
 ###### (23) [Bustle](https://site-bustle.vercel.app/) - Github [FE-Next](https://github.com/stephyswe/site-bustle) - [Copy of Original Site  - Bustle.com](https://bustle.com/) - ![Vercel](https://vercelbadge.vercel.app/api/stephyswe/site-bustle) 
 
 #### Sites - Social 
